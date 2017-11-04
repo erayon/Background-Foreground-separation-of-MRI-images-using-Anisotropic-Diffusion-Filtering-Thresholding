@@ -34,7 +34,7 @@ Low thresholding value  : std of image after perform Nonlinear Anisotropic Diffu
 1. Python3.2 or higher (https://www.python.org/downloads/)
 2. SimpleITK ( http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/ )
 ```
-pip install SimpleITK 
+pip install -r requirements.txt
 ```
 # installation and running
 1. clone the repository
