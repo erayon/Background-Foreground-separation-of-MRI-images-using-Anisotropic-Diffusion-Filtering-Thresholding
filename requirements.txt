@@ -1,0 +1,7 @@
+numpy
+skimage
+scipy
+SimpleITK
+matplotlib
+scikit-learn
+tqdm
