@@ -19,7 +19,7 @@ Removeal of non-brain tissues are mandatory for successful automatic segmantatio
 Though ".dcm" is a common extension (and is defined in the DICOM), on physical interchange media with a DICOMDIR (like CD, DVD, BD, MOD), no file extension at all is used (due to the encoding of file references in the DICOMDIR), So expect to see, for example, "I001" rather than "I001.dcm", etc.
 
 # Nonlinear anisotropic diffusion filters
-It is a iterative, tunable filters introduced by Perona and Malik.Gerig et al http://www.coe.utah.edu/~cs7640/readings/PeronaMalik-PAMI-1990.pdf. used such filters to enhance MR images.
+It is a iterative, tunable filters introduced by Perona and Malik.Gerig et al http://www.sci.utah.edu/~gerig/CS7960-S2010/materials/Perona-Malik/. used such filters to enhance MR images.
 These filters smooth or enhance MR images and detect edges,they might also be used for RF correction and/or intracranial boundary detection in MR images.diffusion filters can be used to enhance and detect object edges within images.
 
 
